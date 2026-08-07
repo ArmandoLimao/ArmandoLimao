@@ -1,10 +1,9 @@
 <p align="center">
   <a href="https://github.com/ArmandoLimao">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=BULOSO" alt="BULOSO" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=420&text=BULOSO" alt="BULOSO" />
   </a>
 </p>
 
-### 🚀 About Me
 
 # Estudante de Desenvolvimento de Sistemas  
 Atualmente desenvolvendo um projeto de Counter-Strike 1.6 utilizando AMX MOD X e plugins/arquivos feitos pela própria comunidade de modo que eles conversem entre si e resulte em uma experiência inovadora e única mais parecida com a versão GO/2.0 do CS. Irei hospedar o servidor (HLDS) em site e disponibilizar o IP aqui mais tarde.  
@@ -13,7 +12,7 @@ Paralelamente a isso, estou desenvolvendo do zero um mapa (.bsp) de CS 1.6 que �
 _  
 No ramo mais da programação, estou estudando/aprendendo React Native, Node JS, Python e Cybersegurança.
 
-### 🛠️ Tech Stack
+### 🛠️ COMPETÊNCIAS
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -22,7 +21,7 @@ No ramo mais da programação, estou estudando/aprendendo React Native, Node JS,
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
-### 🔗 Connect With Me
+### 🔗 CONTATO/PORTFÓLIO
 
 <p align="left">
   <a href="https://www.linkedin.com/in/armando-lima-315515281/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -32,8 +31,5 @@ No ramo mais da programação, estou estudando/aprendendo React Native, Node JS,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ArmandoLimao&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ArmandoLimao&show_icons=true&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/ArmandoLimao">ArmandoLimao</a></i></p>
