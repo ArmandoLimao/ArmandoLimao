@@ -8,7 +8,7 @@
 # Estudante de Desenvolvimento de Sistemas  
 Atualmente desenvolvendo um projeto de Counter-Strike 1.6 utilizando AMX MOD X e plugins/arquivos feitos pela própria comunidade de modo que eles conversem entre si e resulte em uma experiência inovadora e única mais parecida com a versão GO/2.0 do CS.
 SERVIDOR ESTÁ FUNCIONAL, ACESSE AGORA! 
-<p> `connect 177.54.151.234:27044` </p>
+<p> connect 177.54.151.234:27044 </p>
 ⚠️este projeto está sendo desenvolvido filiado à instituição ETEC BENTO QUIRINO, logo o MOD completo possui modificações que referenciam a escola!  
 Paralelamente a isso, estou desenvolvendo do zero um mapa (.bsp) de CS 1.6 que é inspirado na escola, aprimorando meus conhecimentos de modelagem 3D e ferramentas parecidas com o Valve Hammer  
 _  
